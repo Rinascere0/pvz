@@ -11,6 +11,6 @@ cmd in directory "path/pvz/src"
 where path is the project directory
 
 ## Preview
-![Image text](https://github.com/Rinascere0/pvz/preview.png)
+![Image text](https://github.com/Rinascere0/pvz/blob/main/preview.png)
 
 
