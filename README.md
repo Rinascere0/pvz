@@ -2,11 +2,10 @@
 Plants vs. Zombies toy version
 
 ## Run
-cmd in path/pvz/src
+cmd in directory "path/pvz/src"
 
-`javac *.java
-
-java Game path`
+`javac *.java`
+`java Game path`
 
 where path is the project directory
 
